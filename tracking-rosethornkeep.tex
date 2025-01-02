@@ -1,0 +1,51 @@
+% !TeX program = xelatex
+\documentclass[english,9pt,openany,a4paper]{book}
+\usepackage{babel}
+\usepackage{retrotype}
+\usepackage{adjustbox}
+\usepackage{layouts}
+\usepackage{subfig}
+\usepackage{afterpage}
+\usepackage[toc]{multitoc}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{multicol}
+
+
+% HYPERSETUP
+
+\usepackage{hyperref}
+\usepackage{bookmark}
+
+\def\title{Rosethorn Keep Tracking Sheet}
+\def\author{Charlotte Laskowski and Kaydevs}
+\def\rtVer{1.0}
+\def\rtDate{2024-06-15}
+
+\newcommand{\tablex}{0.985}
+\newcommand{\tablesm}{0.47}
+
+\hypersetup{%
+	pdfborderstyle={/S/U/W 0},% underlined hyperlinks
+	bookmarksdepth=5,% paragraph level depth bookmarks
+	pdftitle={\title},
+	pdfauthor={\author},
+	%pdfkeywords={\keywords},
+}
+
+\begin{document}
+
+\uheader{Map of Rosethorn Keep}
+\skipline
+\input{sections/track-grid.tex}
+
+\begin{figure}[H]%
+	\uheader{Resources}
+	\subfloat{{\input{sections/track-resources.tex} }}%
+	\subfloat{{\input{sections/track-rank.tex} }}%
+\end{figure}
+
+	\uheader{Companions}
+	\input{sections/track-adventurers.tex}
+	
+\end{document}
