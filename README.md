@@ -1,5 +1,5 @@
 uses [retrotype](https://github.com/Vladar4/retrotype)
-=======
+
 ## Rosethorn Keep LaTeX Files
 
 *Uses the Retrotype package, which must be manually installed from [here](https://github.com/Vladar4/retrotype)*
