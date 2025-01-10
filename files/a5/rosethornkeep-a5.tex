@@ -1,0 +1,185 @@
+% !TeX program = xelatex
+\documentclass[english,10pt,openany,a5paper]{book}
+\usepackage{babel}
+\usepackage{retrotype}
+\usepackage{adjustbox}
+\usepackage{layouts}
+\usepackage{subfig}
+\usepackage{afterpage}
+ \usepackage[toc]{multitoc}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{afterpage}
+\usepackage{makecell}
+\usepackage{float}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{fancyhdr} % Custom headers and footers
+\fancypagestyle{fancyplain}{%
+	\fancyhf{}% clear all header and footer fields
+	\fancyfoot[C]{\thepage} % except the center
+	\fancyhead[C]{\leftmark}
+}
+
+\pagestyle{fancyplain}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{pgffor, ifthen}
+\newcommand{\notes}[3][\empty]{%
+	\noindent Notes\vspace{10pt}\\
+	\foreach \n in {1,...,#2}{%
+		\ifthenelse{\equal{#1}{\empty}}
+		{\rule{#3}{0.5pt}\\}
+		{\rule{#3}{0.5pt}\vspace{#1}\\}
+	}
+}
+
+\newcommand{\tablex}{0.985}
+\newcommand{\tablesm}{0.47}
+
+
+\newcommand\blankpage{%
+	\newpage 
+	
+	\thispagestyle{empty}%
+	\
+	
+	\newpage }
+
+\newcommand\tripip{\textbf{\op{\_}{/\textbackslash}} }
+
+\newcommand\cirpip{\textbf{\op{O}{@}} }
+
+
+% HYPERSETUP
+
+\usepackage{hyperref}
+\usepackage{bookmark}
+
+\def\title{Rosethorn Keep}
+\def\author{Charlotte Laskowski and Kaydevs}
+\def\rtVer{1.0}
+\def\rtDate{2024-06-15}
+
+\hypersetup{%
+	pdfborderstyle={/S/U/W 0},% underlined hyperlinks
+	bookmarksdepth=5,% paragraph level depth bookmarks
+	pdftitle={\title},
+	pdfauthor={\author},
+	%pdfkeywords={\keywords},
+}
+
+\smalltitles
+
+\begin{document}
+	
+	\input{sections/title.tex}
+	
+	\blankpage
+	
+	\section{Credits}
+	
+	\thispagestyle{empty}
+	
+	Writing, layout: Charlotte Laskowski\\
+	Writing: Kaydevs\\
+	Editing: Jarrett Crader
+	
+	\skipline\skipline
+	\skipline
+	
+	\href{https://selkie.itch.io/rosethorn-keep}{selkie.itch.io/rosethorn-keep}\\
+	\href{https://dreamware.press}{dreamware.press}
+	
+	\newpage
+	
+
+	
+	\toc[2]
+	
+	\thispagestyle{empty}
+	
+	
+	\chapter{Tutorial}
+	
+	\thispagestyle{empty}
+	
+	
+	\header{Materials}
+	\tld  A sheet of paper and pencil, or something else to draw on.
+	
+	\tld  Some dice. A D6 will be required for the game. Online dice rollers are perfectly acceptable.
+	
+	\skipline
+	\begin{adjustbox}{left}
+		\em Reclaim what’s rightfully yours...\em
+	\end{adjustbox}
+	\begin{adjustbox}{right}
+		\em Reclaim Rosethorn Keep...! \em
+	\end{adjustbox}
+	
+	\input{sections/tutorial-a5.tex}
+	
+	\input{sections/castle-a5.tex}
+	
+	\input{sections/dungeons-a5.tex}
+	
+	\input{sections/demonlord-a5.tex}
+	
+	\pagebreak
+	
+	\uheader{Map of Rosethorn Keep}
+	
+	\pagestyle{empty}
+	
+	\begin{adjustbox}{fbox=1pt}
+		\begin{tikzpicture}
+			\draw[step=1cm,color=black,dashed] (-1,-1) grid (10,5);
+		\end{tikzpicture}
+	\end{adjustbox}
+	
+	\uheader{Companions}
+	\begin{retrotable}[|l|L|l|c|c|c|c|c|c|][\tablex\linewidth]
+		\multicolumn{9}{_l_}{\linecharw[\_]{\tablex\linewidth}}\\
+		\# & Companion & Stars & ATK & DEF & MAG  & CHA & SPD & Party \\ \hline
+		1  & Archer        & *  & 2 & 1 & 2 & 2 & 3& ~   \\\hline
+		2  & Arriaga the Rogue         & * & 3 & 2 & 1 & 2 & 2 & ~ \\\hline
+		3  & Mathias the Squire      & *  & 2 & 3 & 2 & 2 & 1 & ~\\\hline
+		4  & Chime the Bard          & *  & 1 & 2 & 2 & 3 & 2 & ~  \\\hline
+		5  & Ellen the Warrior          & *  & 2 & 3 & 1 & 2 & 2 & ~  \\\hline
+		6  & Lichen the Sling     & * & 3 & 1 & 2 & 2 & 2 & ~  \\\hline
+		7  & Cassandra the Witch       & **  & 1 & 1 & 3 & 3 & 2& ~ \\\hline
+		8  & Diego the Duelist       & **  & 3 & 1 & 1 & 2 & 3 & ~ \\\hline
+		9  & Astrid, Shield Maiden  & ** & 3 & 3 & 1 & 1 & 2& ~ \\\hline
+		10 & Eryn the Nun        & **     & 1 & 2 & 3 & 3 & 1 & ~ \\\hline
+		11 & Scarlet, Plague Doc  & *** & 1 & 3 & 4 & 1 & 1& ~ \\\hline
+		12 & Gottfried the Knight     & ***      & 3 & 4 & 1 & 1 & 1  & ~\\ \hline
+		~ &~ &~ & ~& ~ & ~& ~& ~& ~\\ \hline
+		~ &~ &~ & ~& ~ & ~& ~& ~& ~\\ \hline
+		~ &~ &~ & ~& ~ & ~& ~& ~& ~\\ \hline
+		~ &~ &~ & ~& ~ & ~& ~& ~& ~\\ \hline
+		~ &~ &~ & ~& ~ & ~& ~& ~& ~\\ 
+		\multicolumn{9}{^l^}{\linecharw[\odash]{\tablex\linewidth}}\\
+	\end{retrotable}
+	
+	\begin{figure}[H]%
+		\uheader{Resources}
+		\subfloat{{\input{sections/resources-a5.tex} }}%
+		\subfloat{{\input{sections/rank-a5.tex} }}%
+	\end{figure}
+	
+	\notes{10}{\textwidth}
+	
+	\notes{36}{\textwidth}
+	
+	\begin{tikzpicture}
+		\draw[step=1cm,color=black,dashed] (-1,-1) grid (10,15);
+	\end{tikzpicture}
+	
+		\begin{tikzpicture}
+		\draw[step=1cm,color=black,dashed] (-1,-1) grid (10,15);
+	\end{tikzpicture}
+	
+
+	
+\end{document}
