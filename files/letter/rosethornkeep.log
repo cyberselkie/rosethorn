@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.1)  10 JAN 2025 12:33
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.1)  10 JAN 2025 19:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -549,190 +549,6 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (./TT2020.fontspec)
 
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleE" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleE" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleE" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleB" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleB" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleEItalic" cannot be found;
-(fontspec)                this may be but usually is not a fontspec bug.
-(fontspec)                Either there is a typo in the font name/file, the
-(fontspec)                font is not installed (correctly), or there is a
-(fontspec)                bug in the underlying font loading engine
-(fontspec)                (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleEItalic" cannot be found;
-(fontspec)                this may be but usually is not a fontspec bug.
-(fontspec)                Either there is a typo in the font name/file, the
-(fontspec)                font is not installed (correctly), or there is a
-(fontspec)                bug in the underlying font loading engine
-(fontspec)                (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleBItalic" cannot be found;
-(fontspec)                this may be but usually is not a fontspec bug.
-(fontspec)                Either there is a typo in the font name/file, the
-(fontspec)                font is not installed (correctly), or there is a
-(fontspec)                bug in the underlying font loading engine
-(fontspec)                (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleBItalic" cannot be found;
-(fontspec)                this may be but usually is not a fontspec bug.
-(fontspec)                Either there is a typo in the font name/file, the
-(fontspec)                font is not installed (correctly), or there is a
-(fontspec)                bug in the underlying font loading engine
-(fontspec)                (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
 Package fontspec Info: 
 (fontspec)             Font family 'TT2020(0)' created for font 'TT2020' with
 (fontspec)             options [Ligatures=TeX,Path = fonts/,Extension =
@@ -746,217 +562,17 @@ Package fontspec Info:
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleE.ttf]/OT"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleE.ttf]/OT"
+(fontspec)             <->"[fonts/Tt2020StyleE.ttf]/OT:script=latn;language=dfl
+t;-liga;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleB.ttf]/OT"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleB.ttf]/OT"
+(fontspec)             <->"[fonts/Tt2020StyleB.ttf]/OT:script=latn;language=dfl
+t;-liga;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleEItalic.ttf]/OT"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleEItalic.ttf]/OT"
+(fontspec)             <->"[fonts/Tt2020StyleEItalic.ttf]/OT:script=latn;langua
+ge=dflt;-liga;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleBItalic.ttf]/OT"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleBItalic.ttf]/OT"
-
-! Font TU/TT2020(0)/m/n/10=[fonts/Tt2020StyleE.ttf]/OT at 10.0pt not loadable: 
-Metric (TFM) file or installed font not found.
-<to be read again> 
-                   relax 
-l.44 \setmonofont
-                 {TT2020}% TT2020.fontspec
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleE" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.45 \renewcommand
-                  {\familydefault}{\ttdefault}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleE" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.45 \renewcommand
-                  {\familydefault}{\ttdefault}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleE" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.45 \renewcommand
-                  {\familydefault}{\ttdefault}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleB" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.45 \renewcommand
-                  {\familydefault}{\ttdefault}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleB" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.45 \renewcommand
-                  {\familydefault}{\ttdefault}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleEItalic" cannot be found;
-(fontspec)                this may be but usually is not a fontspec bug.
-(fontspec)                Either there is a typo in the font name/file, the
-(fontspec)                font is not installed (correctly), or there is a
-(fontspec)                bug in the underlying font loading engine
-(fontspec)                (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.45 \renewcommand
-                  {\familydefault}{\ttdefault}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleEItalic" cannot be found;
-(fontspec)                this may be but usually is not a fontspec bug.
-(fontspec)                Either there is a typo in the font name/file, the
-(fontspec)                font is not installed (correctly), or there is a
-(fontspec)                bug in the underlying font loading engine
-(fontspec)                (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.45 \renewcommand
-                  {\familydefault}{\ttdefault}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleBItalic" cannot be found;
-(fontspec)                this may be but usually is not a fontspec bug.
-(fontspec)                Either there is a typo in the font name/file, the
-(fontspec)                font is not installed (correctly), or there is a
-(fontspec)                bug in the underlying font loading engine
-(fontspec)                (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.45 \renewcommand
-                  {\familydefault}{\ttdefault}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-! Package fontspec Error: 
-(fontspec)                The font "Tt2020StyleBItalic" cannot be found;
-(fontspec)                this may be but usually is not a fontspec bug.
-(fontspec)                Either there is a typo in the font name/file, the
-(fontspec)                font is not installed (correctly), or there is a
-(fontspec)                bug in the underlying font loading engine
-(fontspec)                (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.45 \renewcommand
-                  {\familydefault}{\ttdefault}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
+(fontspec)             <->"[fonts/Tt2020StyleBItalic.ttf]/OT:script=latn;langua
+ge=dflt;-liga;mapping=tex-text;"
 
 
 Package fontspec Info: 
@@ -974,85 +590,24 @@ Space,Path
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleE.ttf]/OT"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleE.ttf]/OT"
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             <->"[fonts/Tt2020StyleE.ttf]/OT:script=latn;language=dfl
+t;-liga;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleB.ttf]/OT"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleB.ttf]/OT"
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             <->"[fonts/Tt2020StyleB.ttf]/OT:script=latn;language=dfl
+t;-liga;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleEItalic.ttf]/OT"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleEItalic.ttf]/OT"
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             <->"[fonts/Tt2020StyleEItalic.ttf]/OT:script=latn;langua
+ge=dflt;-liga;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleBItalic.ttf]/OT"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"[fonts/Tt2020StyleBItalic.ttf]/OT"
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             <->"[fonts/Tt2020StyleBItalic.ttf]/OT:script=latn;langua
+ge=dflt;-liga;mapping=tex-text;"
 
 \charwidth=\skip53
-! Font TU/TT2020(1)/m/n/10=[fonts/Tt2020StyleE.ttf]/OT at 10.0pt not loadable: 
-Metric (TFM) file or installed font not found.
-<to be read again> 
-                   relax 
-l.48 \settowidth{\charwidth}{\normalfont x}
-                                           
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-Missing character: There is no x ("78) in font nullfont!
 \docfontsize=\skip54
 \retrotype@roughwidth=\skip55
 \retrotype@roughheight=\skip56
 \retrotype@textwidth=\skip57
 \retrotype@textheight=\skip58
-
-! Package PGF Math Error: You've asked me to divide `473.2611' by `0.0', but I 
-cannot divide any number by `0.0' (in '\charwidth * int(\retrotype@roughwidth /
- \charwidth )').
-
-See the PGF Math package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.128 \defaultGeometry
-                      {}
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-! Arithmetic overflow.
-\pgfmathdivide@ ...\pgfmath@x by\c@pgfmath@counta 
-                                                  \else \ifdim 0pt>\pgfmath@...
-l.128 \defaultGeometry
-                      {}
-I can't carry out that multiplication or division,
-since the result is out of range.
-
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: 
 * paper: letterpaper
@@ -1061,14 +616,14 @@ since the result is out of range.
 * hratio: 1:1
 * vratio: 1:1
 * modes: twoside 
-* h-part:(L,W,R)=(307.14749pt, 0.0pt, 307.1475pt)
+* h-part:(L,W,R)=(71.93744pt, 470.4201pt, 71.93745pt)
 * v-part:(T,H,B)=(91.48499pt, 612.0pt, 91.485pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=0.0pt
+* \textwidth=470.4201pt
 * \textheight=612.0pt
-* \oddsidemargin=234.8775pt
-* \evensidemargin=234.87752pt
+* \oddsidemargin=-0.33255pt
+* \evensidemargin=-0.33253pt
 * \topmargin=-4.785pt
 * \headheight=12.0pt
 * \headsep=12.0pt
@@ -1086,6 +641,7 @@ since the result is out of range.
 * \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
@@ -1672,14 +1228,14 @@ LaTeX Font Info:    ... okay on input line 70.
 * hratio: 1:1
 * vratio: 1:1
 * modes: twoside 
-* h-part:(L,W,R)=(307.14749pt, 0.0pt, 307.1475pt)
+* h-part:(L,W,R)=(71.93744pt, 470.4201pt, 71.93745pt)
 * v-part:(T,H,B)=(91.48499pt, 612.0pt, 91.485pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=0.0pt
+* \textwidth=470.4201pt
 * \textheight=612.0pt
-* \oddsidemargin=234.8775pt
-* \evensidemargin=234.87752pt
+* \oddsidemargin=-0.33255pt
+* \evensidemargin=-0.33253pt
 * \topmargin=-4.785pt
 * \headheight=12.0pt
 * \headsep=12.0pt
@@ -1767,27 +1323,1124 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 70.
+(./sections/title.tex
 
-! LaTeX Error: File `sections/title.tex' not found.
+[1
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.72 \input{sections/title.tex}
-                               ^^M
-*** (cannot \read from terminal in nonstop modes)
 
- 
+]) (./sections/credits.tex)
+
+[2] (./rosethornkeep.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write6
+\openout6 = `rosethornkeep.toc'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[3]
+Chapter .
+(./sections/tutorial.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[4
+
+] (./sections/adventurers.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[5] (./sections/first-event.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[6]) (./sections/castle.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[7]
+Chapter .
+(./sections/castle-overview.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[8
+
+] (./sections/castle-great-hall.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]\TU/TT2020(1)/m/n/10 Roll 1d6 to determine your next
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 Roll 2d6 to determine your next
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 15 Gold & 10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\TU/TT2020(1)/m/n/10 Roll 3d6 to determine your next
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 20 Gold & 15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\TU/TT2020(1)/m/n/10 Roll 3d6 and drop the lowest
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\TU/TT2020(1)/m/n/10 result to determine your next
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 30 Gold & 30
+ []
+
+) (./sections/castle-armory.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Combat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Combat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 10 Iron & 5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Combat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 15 Iron & 10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Combat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 20 Iron & 15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Combat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 30 Iron & 30
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[9] (./sections/castle-courtyard.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Noncombat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Noncombat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Noncombat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 15 Stone & 10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Noncombat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 20 Stone & 15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\TU/TT2020(1)/m/n/10 -1 from the TN of [] Noncombat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 30 Stone & 30
+ []
+
+) (./sections/castle-kitchen.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\TU/TT2020(1)/m/n/10 Reroll up to 1 die at the be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\TU/TT2020(1)/m/n/10 ginning of a dungeon, only once
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 5 Stone & 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\TU/TT2020(1)/m/n/10 Reroll up to 2 dice at the be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\TU/TT2020(1)/m/n/10 ginning of a dungeon, only once
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 10 Stone & 5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 Reroll up to 3 dice at the be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\TU/TT2020(1)/m/n/10 ginning of a dungeon, only once
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 15 Stone & 10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/TT2020(1)/m/n/10 Reroll up to 4 dice at the be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\TU/TT2020(1)/m/n/10 ginning of a dungeon, only once
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 20 Stone & 15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/TT2020(1)/m/n/10 Reroll up to 5 dice at the be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\TU/TT2020(1)/m/n/10 ginning of a dungeon, only once
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 30 Stone & 30
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[10] (./sections/castle-stables.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\TU/TT2020(1)/m/n/10 Bring back 1 more of each re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 5 Lumber & 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\TU/TT2020(1)/m/n/10 Bring back 2 more of each re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 10 Lumber & 5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 Bring back 3 more of each re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 15 Lumber & 10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/TT2020(1)/m/n/10 Bring back 4 more of each re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 20 Lumber & 15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/TT2020(1)/m/n/10 Bring back 5 more of each re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 30 Lumber & 30
+ []
+
+) (./sections/castle-bedrooms.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\TU/TT2020(1)/m/n/10 Regenerate 1 companion between
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\TU/TT2020(1)/m/n/10 Regenerate 2 companions between
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 5 Leather & 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\TU/TT2020(1)/m/n/10 Regenerate 3 companions between
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 10 Leather & 5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 Regenerate 4 companions between
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 15 Leather & 10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/TT2020(1)/m/n/10 Regenerate 5 companions between
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 20 Leather & 15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/TT2020(1)/m/n/10 Regenerate 6 companions between
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\TU/TT2020(1)/b/n/10 Upgrade Cost: \TU/TT2020(1)/m/n/10 30 Leather & 30
+ []
+
+)) (./sections/dungeons.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[11]
+Chapter .
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\TU/TT2020(1)/m/n/10 Though taken over by a beast of sulfur, the materials ne
+eded for your forge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]\TU/TT2020(1)/m/n/10 An old tomb, now overrun by undead and their master, but
+ within many trea-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]\TU/TT2020(1)/m/n/10 The lair of a great white beast and home to many others.
+ Holds the trea-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[12
+
+] (./sections/dungeon-mine.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\TU/TT2020(1)/m/n/10 They won’t let you pass unless you
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\TU/TT2020(1)/m/n/10 Convince him you mean no harm, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\TU/TT2020(1)/m/n/10 Run away before you are crushed like
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 You should’ve brought a canary... and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/TT2020(1)/m/n/10 Hold your breath and look for goodies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/TT2020(1)/m/n/10 Came down here to hide from the sun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\TU/TT2020(1)/m/n/10 A hunting party looking for food to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\TU/TT2020(1)/m/n/10 Either drawings of animals, or long
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\TU/TT2020(1)/m/n/10 Valuable magical rocks, do not touch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]\TU/TT2020(1)/m/n/10 It will take a lot of work to get it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\TU/TT2020(1)/m/n/10 Lost to time, you can trade light for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\TU/TT2020(1)/m/n/10 Very claustrophobic, no one would
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\TU/TT2020(1)/m/n/10 Bottomless and eerily cold waters,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]\TU/TT2020(1)/m/n/10 A creature of the night, its echolo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]\TU/TT2020(1)/m/n/10 The earth rumbles in anger at your
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\TU/TT2020(1)/m/n/10 The veins of the earth open before
+ []
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[13] (./sections/dungeon-crypt.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\TU/TT2020(1)/m/n/10 A lone undertaker who hasn’t realized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\TU/TT2020(1)/m/n/10 You sense an illusory wall, try to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\TU/TT2020(1)/m/n/10 You stepped on a pressure plate, dis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 It rises from its tomb and starts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/TT2020(1)/m/n/10 You’re trapped in a hallway filled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/TT2020(1)/m/n/10 If you remind a ghost that it is al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\TU/TT2020(1)/m/n/10 You touch something wet, sticky, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\TU/TT2020(1)/m/n/10 Is treasure worth unearthing what
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\TU/TT2020(1)/m/n/10 Meant to guard from evil spirits. You
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\TU/TT2020(1)/m/n/10 Roll 1d6. If you have an equivalent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]\TU/TT2020(1)/m/n/10 A spirit of bad omens. Run away be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\TU/TT2020(1)/m/n/10 A place of dark rituals? Or a long
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\TU/TT2020(1)/m/n/10 Hold the ceiling up until someone can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]\TU/TT2020(1)/m/n/10 If you solve the riddle it recites,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\TU/TT2020(1)/m/n/10 You should have known that treasure
+ []
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[14] (./sections/dungeon-forest.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\TU/TT2020(1)/b/n/10 A mysterious clearing that gives you
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\TU/TT2020(1)/m/n/10 Left behind by poachers. Not danger-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 Another poacher’s trap. This one will
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/TT2020(1)/m/n/10 The evil forces in this wood have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\TU/TT2020(1)/m/n/10 A living, talking tree who can be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\TU/TT2020(1)/m/n/10 It swallows you whole. Resist the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\TU/TT2020(1)/m/n/10 A common forest creature. Edible in a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\TU/TT2020(1)/m/n/10 Here to drive out the evil, but not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]\TU/TT2020(1)/m/n/10 All noise leaves the forest, a sign
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\TU/TT2020(1)/m/n/10 A witches’ reunion. Partake, and they
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\TU/TT2020(1)/m/n/10 A lost forest spirit, looking for a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\TU/TT2020(1)/m/n/10 Be prepared lest you be enthralled or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\TU/TT2020(1)/m/n/10 They’re hiding from someone, and will
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]\TU/TT2020(1)/m/n/10 They are looking for someone, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]\TU/TT2020(1)/m/n/10 You can’t see your hand held out be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\TU/TT2020(1)/m/n/10 You stepped into a fairy ring. Step
+ []
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[15] (./sections/dungeon-lair.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\TU/TT2020(1)/m/n/10 Treasure! You might find some neat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\TU/TT2020(1)/m/n/10 Follow the tracks if you are fast
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\TU/TT2020(1)/m/n/10 Search the bones for remaining valu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 A lost hunting dog. You think its
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/TT2020(1)/m/n/10 Ambushed by an unknown foe, fight
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\TU/TT2020(1)/m/n/10 Many bear traps lie between you and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\TU/TT2020(1)/m/n/10 Marked with warnings, interpret them
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\TU/TT2020(1)/m/n/10 The lair’s ceiling is caving in. Get
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\TU/TT2020(1)/m/n/10 The mortal enemy of Knights and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]\TU/TT2020(1)/m/n/10 An incomplete summoning circle. You
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\TU/TT2020(1)/m/n/10 A hunter missing its hound. Have you
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\TU/TT2020(1)/m/n/10 They made a nest here, and you seem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\TU/TT2020(1)/m/n/10 An unknown monster is looking for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\TU/TT2020(1)/m/n/10 Be mindful of its petrifying gaze.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]\TU/TT2020(1)/m/n/10 Remains of meals from the boss, but
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]\TU/TT2020(1)/m/n/10 A glinting pile of gold. Try to take
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\TU/TT2020(1)/m/n/10 A great man armed with a heavy club
+ []
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[16] (./sections/dungeon-ruins.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\TU/TT2020(1)/m/n/10 May contain treasures left behind, or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\TU/TT2020(1)/m/n/10 He’s lived alone for decades. Who
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\TU/TT2020(1)/m/n/10 Left behind by their owners, now
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 An old bedroom that falls apart when
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/TT2020(1)/m/n/10 You can’t tell if it contains old
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/TT2020(1)/m/n/10 A bandit looking to score some cash.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\TU/TT2020(1)/m/n/10 It sickens you when you take a sip.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\TU/TT2020(1)/m/n/10 Someone must have confused it for a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\TU/TT2020(1)/m/n/10 Roll 1d6. If you have an equivalent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]\TU/TT2020(1)/m/n/10 Maybe if you beat it enough, some-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]\TU/TT2020(1)/m/n/10 Equal chance of accessing it as there
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]\TU/TT2020(1)/m/n/10 Trying to extort you. Luckily, all he
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\TU/TT2020(1)/m/n/10 One among you has been replaced with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]\TU/TT2020(1)/m/n/10 Living dead remains of the old vil-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]\TU/TT2020(1)/m/n/10 Seems pretty hard to miss in hind-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]\TU/TT2020(1)/m/n/10 The resting place of the ruin’s orig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]\TU/TT2020(1)/m/n/10 An abandoned church. Something
+ []
+
+))
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[17] (./sections/demonlord.tex
+Chapter .
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[18
+
+]
+
+[19] (./sections/demonlordcastle.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+|[]\TU/TT2020(1)/b/n/10 DEFEAT THE DEMON LORD|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\TU/TT2020(1)/m/n/10 A small and weak demon. It might let
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\TU/TT2020(1)/m/n/10 Filled with horrifying trophies and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\TU/TT2020(1)/m/n/10 You are stuck in a corridor with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/TT2020(1)/m/n/10 They believe they will be spared if
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\TU/TT2020(1)/m/n/10 The mist of sickness and death inun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/TT2020(1)/m/n/10 Set them free, but assure that you
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\TU/TT2020(1)/m/n/10 A servant of the Demon Lord who will
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\TU/TT2020(1)/m/n/10 Unholy flames surround you, trying to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\TU/TT2020(1)/m/n/10 A long hallway lined with suits of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]\TU/TT2020(1)/m/n/10 Reagents and materials fill the cabi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\TU/TT2020(1)/m/n/10 An artificial amalgamation of crea-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\TU/TT2020(1)/m/n/10 Crestfallen and unwilling to proceed,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\TU/TT2020(1)/m/n/10 Filled with ancient and lost knowl-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\TU/TT2020(1)/m/n/10 A soldier from hell and a slayer of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]\TU/TT2020(1)/m/n/10 Rumors say if you jump back quickly
+ []
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[20])
+
+[21] (./sections/inline-tracking.tex
+Chapter .
+(./sections/track-grid.tex) (./sections/track-resources.tex
+Overfull \hbox (8.64204pt too wide) in alignment at lines 14--14
+[][] 
+ []
+
+) (./sections/track-rank.tex
+Overfull \hbox (8.64204pt too wide) in alignment at lines 14--14
+[][][] 
+ []
+
+)
+Overfull \hbox (4.59595pt too wide) in paragraph at lines 6--8
+[][][][] 
+ []
+
+(./sections/track-adventurers.tex
+Overfull \hbox (7.05603pt too wide) in alignment at lines 20--20
+[][][][][][][][][][] 
+ []
+
+)) (./sections/companion-tracking.tex (./sections/track-grid.tex)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[22
+
+]
+Overfull \hbox (7.05603pt too wide) in alignment at lines 26--26
+[][][][][][][][][] 
+ []
+
+(./sections/track-extra-resources.tex
+Overfull \hbox (8.64204pt too wide) in alignment at lines 14--14
+[][] 
+ []
+
+) (./sections/track-extra-rank.tex
+Overfull \hbox (8.64204pt too wide) in alignment at lines 14--14
+[][][] 
+ []
+
+)
+Overfull \hbox (4.59595pt too wide) in paragraph at lines 30--32
+[][][][] 
+ []
+
+) (./sections/notes.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[23])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.39996pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.39996pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.39996pt}.
+
+[24] (./rosethornkeep.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-09>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 29659 strings out of 473889
- 590894 string characters out of 5731181
- 1053971 words of memory out of 5000000
- 52201 multiletter control sequences out of 15000+600000
- 558445 words of font info for 39 fonts, out of 8000000 for 9000
+ 30016 strings out of 473889
+ 600376 string characters out of 5731181
+ 1095497 words of memory out of 5000000
+ 52441 multiletter control sequences out of 15000+600000
+ 558541 words of font info for 51 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,0n,133p,426b,297s stack positions out of 10000i,1000n,20000p,200000b,200000s
-No pages of output.
+ 99i,13n,144p,509b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on rosethornkeep.pdf (24 pages).
